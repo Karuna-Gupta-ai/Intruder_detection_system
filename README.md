@@ -10,8 +10,10 @@ This project is an Intruder Detection System simulated in Proteus, using an Ardu
 
 🛠️ Components Used
 Arduino Uno 🟦
+(install required libraries of arduino)
 
 PIR Sensor  👀
+(install required libraries of pir sensor)
 
 Buzzer (for alerts) 🔊
 
