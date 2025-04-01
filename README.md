@@ -30,7 +30,7 @@ Proteus 8.6 (for simulation)
 sh
 Copy
 Edit
-git clone https://github.com/YourUsername/Intruder_detection_system.git
+git clone https://github.com/Karuna-Gupta-ai/Intruder_detection_system.git
 cd Intruder_detection_system
 2️⃣ Open the Arduino Code
 Open Intruder_detection_system.ino in the Arduino IDE.
